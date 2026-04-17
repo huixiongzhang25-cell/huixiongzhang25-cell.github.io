@@ -1,0 +1,1 @@
+import{b as e,l as t,o as n}from"./runtime-core.esm-bundler-Cik9GidV.js";import{r}from"./vue-router-CIan41GE.js";var i={class:``},a={__name:`Info`,setup(a){return r(),(r,a)=>(e(),t(`div`,i,[...a[0]||=[n(`p`,{class:`text-geek-text`},`待开发...`,-1)]]))}};export{a as default};

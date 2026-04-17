@@ -1,1 +1,0 @@
-import{i as e,s as t,v as n}from"./runtime-core.esm-bundler-CMDPn8as.js";import{r}from"./vue-router-DRFUHVsM.js";var i={class:``},a={__name:`Info`,setup(a){return r(),(r,a)=>(n(),t(`div`,i,[...a[0]||=[e(`p`,{class:`text-geek-text`},`待开发...`,-1)]]))}};export{a as default};
